@@ -16,3 +16,5 @@ practice
 [文字檔測試](hello.txt)
 
 [技術文件](doc/index.html)
+
+![照片](/pic/forest.jpg)
